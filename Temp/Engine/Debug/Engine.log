@@ -1,0 +1,19 @@
+﻿  TitleComponent.cpp
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Engine\Source\Math\Random.h(15,70): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Source/Components/TitleComponent.cpp')
+  
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Engine\Source\Core\CTime.h(15,33): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Source/Components/TitleComponent.cpp')
+  
+  Json.cpp
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Engine\Source\Core\Json.cpp(114,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Engine\Source\Core\Json.cpp(142,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+fmod_vc.lib(fmod.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sdl2.lib(SDL2.dll); second definition ignored
+sdl2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sdl2.lib(SDL2.dll); second definition ignored
+sdl2_image.lib(SDL2_image.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sdl2.lib(SDL2.dll); second definition ignored
+TextureAnimationComponent.obj : warning LNK4006: "public: __cdecl Texture::~Texture(void)" (??1Texture@@QEAA@XZ) already defined in Texture.obj; second definition ignored
+TextureAnimationComponent.obj : warning LNK4006: "public: bool __cdecl Texture::Load(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class Renderer &)" (?Load@Texture@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAVRenderer@@@Z) already defined in Texture.obj; second definition ignored
+TextureAnimationComponent.obj : warning LNK4006: "public: virtual bool __cdecl Texture::Create(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,...)" (?Create@Texture@@UEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ZZ) already defined in Texture.obj; second definition ignored
+TextureAnimationComponent.obj : warning LNK4006: "public: struct Vector2 __cdecl Texture::GetSize(void)" (?GetSize@Texture@@QEAA?AUVector2@@XZ) already defined in Texture.obj; second definition ignored
+  Engine.vcxproj -> C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Bin\Engine\Debug\Engine.lib

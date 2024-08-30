@@ -1,0 +1,10 @@
+﻿  LINK : 0 new modules and 2 (out of 123) modules have changed since prior linking
+  Searching libraries
+      Searching C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\ThirdParty\SDL2\lib\x64\sdl2.lib:
+  Finished searching libraries
+  Starting pass 2
+       Engine.lib(TitleComponent.obj)
+       Engine.lib(Json.obj)
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  gat150_cdtsosie.vcxproj -> C:\Users\ctsosie\Neumont\Year 1 Neumont\Q 3\Sprint 1\C++\C++ Visual Studio\GAT150 GameEngine\gat150_cdtsosie\Bin\Game\Debug\Game.exe
